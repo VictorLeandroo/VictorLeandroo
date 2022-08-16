@@ -24,11 +24,5 @@
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=VictorLeandroo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
      <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLeandroo&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
-<br/>
-<div align="center">
-  <a href = "mailto:victorleandro430@gmail.com" target="_blank"><img src="https://cdn-icons.flaticon.com/png/128/720/premium/720277.png?token=exp=1658963166~hmac=8ca4fb50549e006ab1779fa8288a7af2" width="40px"/></a>
-  <a href="https://www.linkedin.com/in/victor-leandro-430-/" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670129.png?token=exp=1658963135~hmac=f44f88a88c609571a7e877acd24e8d78" width="40px" target="_blank"/></a> 
-  <a href="https://www.instagram.com/xdonvictor/" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494488.png?token=exp=1658963063~hmac=b93c692feef4d981b11117910e5af0d9" width="40px"/></a>
-</div>
 
 </div>
