@@ -1,28 +1,23 @@
-## Oii, eu sou o Victor 👨🏻‍💻
-### Desenvolvedor Front-end
-#### Estudante de desenvolvimento web full stack 🤓
+<h1 align="center">Oii 👋,Eu sou o Victor</h1>
+<h3 align="center">Desenvolvedor Front-end</h3>
 
-- 📖 Estudando MySQL
-- 📫 Contate-me: victorleandro430@gmail.com
-- 🚹 Pronomes: Ele/dele
-- 🎂 Tenho 19 aninhos
-- 👨🏻‍🎓 Formado em técnico de infomática
+- 🔭 Estudando Back-end [Repositório de estudo] https://github.com/future4code/alves-Victor-Eleuterio
 
-<div>
-<div align="center" display: flex;>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" alt="Git" heigth="30" width="40" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667"/>
-</div>
+- 📫 E-mail **victorleandro430@gmail.com**
 
-<br/>
+- 📄 Currículo [https://drive.google.com/file/d/1a3x5_bgvK1vmayxSeYovrRstbBWx_1KG/view ?usp=sharing](https://drive.google.com/file/d/1a3x5_bgvK1vmayxSeYovrRstbBWx_1KG/view?usp=sharing)
 
-<div align="center">
-  <a href="https://github.com/VictorLeandroo">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=VictorLeandroo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLeandroo&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left ">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/victor-eleuterio/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt="https://www.linkedin.com/in /victor-eleuterio/" height="40" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/xdonvictor/" target= "blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt= "https://www.instagram.com/xdonvictor/" height="40" width="40" /></a>
+</p>
 
-</div>
+<h3 align="left">Linguagens e ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css3" width="40" height="40"/> </a> <a href="https:// expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt= "express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US /docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt ="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs. org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs " width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a > <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank " rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"altura="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorleandroo&show_icons=true&locale=en&layout=compact" alt="victorleandroo" /> </p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorleandroo&show_icons=true&locale=en" alt="victorleandroo" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorleandroo&" alt="victorleandroo" /></p>
