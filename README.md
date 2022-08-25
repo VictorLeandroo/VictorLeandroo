@@ -2,7 +2,7 @@
 ### Desenvolvedor Front-end
 #### Estudante de desenvolvimento web full stack 🤓
 
-- 📖 Estou estudando Node.js
+- 📖 Estudando MySQL
 - 📫 Contate-me: victorleandro430@gmail.com
 - 🚹 Pronomes: Ele/dele
 - 🎂 Tenho 19 aninhos
