@@ -1,7 +1,7 @@
 <h1 align="center">Oii 👋,Eu sou o Victor</h1>
 <h3 align="center">Desenvolvedor Front-end</h3>
 
-- 🔭 Estudando Back-end [Repositório de estudo] https://github.com/future4code/alves-Victor-Eleuterio
+- 🔭 Estudando Back-end || https://github.com/VictorLeandroo/Study-repository
 
 - 📫 E-mail **victorleandro430@gmail.com**
 
