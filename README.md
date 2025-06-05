@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://4blocks.com.br/wp-content/uploads/2023/08/parceiros-integracoes-4b.svg"/>]
+<img align="left" height="94px" width="94px" alt="Warpnet" src="https://lh3.googleusercontent.com/p/AF1QipPaBpPH6hdGbcku1YjdrycEwi5ALBJarCPgFsp9=s680-w680-h510-rw"/>
 
 **Desenvolvedor Front end** \
 [**Urban Crypto Exchange**](https://www.urbanexchange.com.br/) • Full-time \
