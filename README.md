@@ -6,10 +6,10 @@
 
 <br/><br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://4blocks.com.br/wp-content/uploads/2023/08/parceiros-integracoes-4b.svg"/>](https://www.4blocks.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://4blocks.com.br/wp-content/uploads/2023/08/parceiros-integracoes-4b.svg"/>]
 
 **Desenvolvedor Front end** \
-[**4Blocks**](https://4blocks.com.br/) • Full-time \
+[**Urban Crypto Exchange**](https://www.urbanexchange.com.br/) • Full-time \
 Linguagens & Tecnologias: `Vue JS`, `CSS`, `Bootrstrap`, `JavaScript`\
 <br/><br/><br/>
 
