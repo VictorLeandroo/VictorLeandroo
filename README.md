@@ -10,7 +10,7 @@
 
 **Desenvolvedor Front end** \
 [**Urban Crypto Exchange**](https://www.urbanexchange.com.br/) • Full-time \
-Linguagens & Tecnologias: `Vue JS`, `CSS`, `Bootrstrap`, `JavaScript`\
+Linguagens & Tecnologias: `Vue JS`, `React`, `React Native`, `JavaScript`\
 <br/><br/><br/>
 
 
